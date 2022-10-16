@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642957222 source:c:\users\sonat\desktop\football\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+
+1642957222 source:c:\users\sonat\desktop\project\football\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+
